@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  margin: 5% 15%;
+  border-left: 4px solid #075b2c;
+  padding-left: 40px;
+
+  }
+
+  .read-more-button {
+    color:blue;
+
+  }
+  a:hover {
+    background-color: lightblue;
+  }
+
+  #virtual img {
+    width: 250px;
+    height: 250px;
+  }

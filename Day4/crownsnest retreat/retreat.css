@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'From the Woods';
+    src: url('FromtheWoods-Regular.woff2') format('woff2'),
+        url('FromtheWoods-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}body {
+    font-family: "Open Sans";
+    background-image: url(bg.jpg);
+    background-repeat:inherit;
+    color:white;
+    margin: 25px 50px 75px 100px;
+    
+}
+
+h1 {
+    font-family: "From the Woods";
+    font-size: 5rem;
+    height: 200px;
+    text-align: center;
+}

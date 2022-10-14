@@ -1,0 +1,45 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    width: 100vw;
+    height: 100vh;
+    background: white url(antique-frame-220.svg) center no-repeat;
+    background-size: auto;
+}
+
+.text {
+    width: 70vw;
+    padding-top: 200px;
+    padding-left: 280px;
+    text-align: center;
+    margin-left: 10px;
+    position: relative;
+}
+
+.text-promo {
+    width: 800px;
+    height: 400px;
+    margin-left: 10%;
+}
+
+.text-promo>h1 {
+    font-size: 50px;
+
+}
+
+.elephant {
+    width: 30vw;
+    position: absolute;
+    left: 45vw;
+    top: 5vh;
+}

@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    padding: 30px;
+}
+
+.project {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+}
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    background-color: grey;
+    margin-left: 5%;
+    width: 12%;
+    align-items: center;
+
+
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 83%;
+    justify-content: space-between;
+    margin: 200px;
+    height: 10px;
+    align-items: center;
+
+
+}
+
+.cards p {
+    display: flex;
+    background-color: lightblue;
+    height: 150px;
+    width: 30%;
+    align-items: center;
+    justify-content: center;
+
+}

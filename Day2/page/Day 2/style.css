@@ -1,0 +1,53 @@
+html {
+  font-size: 18px;
+  font-family: 'Lato', Arial, sans-serif;
+}
+
+body {
+  background-color: #FFFFFF;
+}
+
+article {
+  width: 50rem;
+  margin: 0 auto;
+}
+
+section {
+  padding: 0.5rem 2rem;
+}
+
+h1 {
+  color: #23226C;
+  font-weight: 900;
+  font-size: 240%;
+  margin: auto;
+  max-width: 500px;
+}
+
+h2 {
+  color: #23226C;
+  font-weight: 900;
+  font-size: 180%;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+
+a {
+  color: rgb(91, 31, 91);
+}
+
+a:hover {
+  color: #6290C3;
+}
+
+
+.intro {
+  background-color: #D2D6EF;
+}
+
+.conclusion {
+  background-color: #D2D6EF;
+}
